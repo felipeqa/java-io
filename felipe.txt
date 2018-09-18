@@ -1,0 +1,5 @@
+linha 0 Teste Felipe Rodrigues de Oliveira
+linha 1 Esse arquivo do curso de java io
+linha 2 teste de read arquivo
+linha 3 Não esquecer das exceptions checked
+linha 4 fim do arquivo 
