@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66dc1e75-7ce2-46bb-bdeb-f9e3f242b021" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo4ComFlush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivoFinalExemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscrita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscritaELeitura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscrita2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscritaComBufferedWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscritaComPrintStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,69 +19,79 @@
     <session id="1131208557">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JAVA" value="26" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="882" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="1150" />
+          <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="882" />
+          <entry key="dummy" value="6" />
+          <entry key="java" value="1150" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
-          <entry key="txt" value="6" />
+          <entry key="java" value="26" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo5.java">
+        <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscrita2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            <state relative-caret-position="315">
+              <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo4ComFlush.java">
+        <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscritaComBufferedWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            <state relative-caret-position="315">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivoFinalExemplo.java">
+        <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscritaComPrintStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loren3.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loren.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -115,6 +120,10 @@
         <option value="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo4ComFlush.java" />
         <option value="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo6.java" />
         <option value="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivoFinalExemplo.java" />
+        <option value="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscrita2.java" />
+        <option value="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscritaComBuffered.java" />
+        <option value="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscritaComBufferedWriter.java" />
+        <option value="$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscritaComPrintStream.java" />
       </list>
     </option>
   </component>
@@ -132,40 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java-io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-io" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="teste" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java-io" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java-io" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -222,10 +197,43 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-io" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java-io" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-io" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-io" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="teste" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537234479967" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537320741101" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -245,59 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TesteCopiarArquivoFinalExemplo">
-    <configuration name="TesteCopiarArquivo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.felipe.java.io.teste.TesteCopiarArquivo3" />
-      <module name="java-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.felipe.java.io.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteCopiarArquivo4ComFlush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.felipe.java.io.teste.TesteCopiarArquivo4ComFlush" />
-      <module name="java-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.felipe.java.io.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteCopiarArquivo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.felipe.java.io.teste.TesteCopiarArquivo5" />
-      <module name="java-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.felipe.java.io.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteCopiarArquivo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.felipe.java.io.teste.TesteCopiarArquivo6" />
-      <module name="java-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.felipe.java.io.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TesteEscritaComPrintWriter">
     <configuration name="TesteCopiarArquivoFinalExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.felipe.java.io.teste.TesteCopiarArquivoFinalExemplo" />
       <module name="java-io" />
@@ -311,20 +267,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteEscrita2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.felipe.java.io.teste.TesteEscrita2" />
+      <module name="java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.felipe.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEscritaComBufferedWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.felipe.java.io.teste.TesteEscritaComBufferedWriter" />
+      <module name="java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.felipe.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEscritaComPrintStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.felipe.java.io.teste.TesteEscritaComPrintStream" />
+      <module name="java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.felipe.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEscritaComPrintWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.felipe.java.io.teste.TesteEscritaComPrintWriter" />
+      <module name="java-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.felipe.java.io.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.TesteCopiarArquivo3" />
-      <item itemvalue="Application.TesteCopiarArquivo4ComFlush" />
-      <item itemvalue="Application.TesteCopiarArquivo5" />
-      <item itemvalue="Application.TesteCopiarArquivo6" />
       <item itemvalue="Application.TesteCopiarArquivoFinalExemplo" />
+      <item itemvalue="Application.TesteEscrita2" />
+      <item itemvalue="Application.TesteEscritaComBufferedWriter" />
+      <item itemvalue="Application.TesteEscritaComPrintStream" />
+      <item itemvalue="Application.TesteEscritaComPrintWriter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteEscritaComPrintWriter" />
+        <item itemvalue="Application.TesteEscritaComPrintStream" />
+        <item itemvalue="Application.TesteEscritaComBufferedWriter" />
+        <item itemvalue="Application.TesteEscrita2" />
         <item itemvalue="Application.TesteCopiarArquivoFinalExemplo" />
-        <item itemvalue="Application.TesteCopiarArquivo6" />
-        <item itemvalue="Application.TesteCopiarArquivo5" />
-        <item itemvalue="Application.TesteCopiarArquivo4ComFlush" />
-        <item itemvalue="Application.TesteCopiarArquivo3" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +353,7 @@
     <frame x="1416" y="-11" width="2511" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25172552" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2557856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -384,13 +392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscrita.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -442,10 +443,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo5.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivoFinalExemplo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        <state relative-caret-position="255">
+          <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -456,13 +460,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivoFinalExemplo.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteCopiarArquivo5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="83" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscrita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscrita2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loren.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscritaComBufferedWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loren3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/felipe/java/io/teste/TesteEscritaComPrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
         </state>
       </provider>
     </entry>
