@@ -11,7 +11,7 @@ public class TesteEscritaFileWriter {
 
         BufferedWriter bw = new BufferedWriter(new FileWriter("teste.txt"));
 
-        bw.write("541641564165 Teste Maluco agora");
+        bw.write("541641564165 Alterando");
         bw.newLine();
         bw.write("Esse é o fim do arquivo");
 
